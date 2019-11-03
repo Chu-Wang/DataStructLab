@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1551165218 source:d:\codeblocks\c\mysatsolve\game.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Sudoku.h"
+	"SAT.h"
+
+1551101678 source:d:\codeblocks\c\mysatsolve\satsolvepro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1551170736 source:d:\codeblocks\c\mysatsolve\satsolve.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"SAT.h"
+
+1551165218 d:\codeblocks\c\mysatsolve\sat.h
+
+1551165218 source:d:\codeblocks\c\mysatsolve\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"SAT.h"
+	"Sudoku.h"
+
+1551165218 d:\codeblocks\c\mysatsolve\sudoku.h
+	"SAT.h"
+
